@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 56" fill="none">
+  <path
+    d="M 52 34 C 58 16, 66 6, 76 8 C 84 10, 88 22, 90 36 C 91 46, 94 50, 102 50"
+    stroke="#1f7a52"
+    stroke-width="2.6"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <text
+    x="4"
+    y="46"
+    fill="#0c1016"
+    font-family="system-ui, sans-serif"
+    font-size="26"
+    font-weight="800"
+    letter-spacing="-0.03em"
+  >
+    DR
+  </text>
+  <line
+    x1="4"
+    y1="50"
+    x2="48"
+    y2="50"
+    stroke="#1f7a52"
+    stroke-width="1.6"
+    stroke-linecap="round"
+  />
+</svg>

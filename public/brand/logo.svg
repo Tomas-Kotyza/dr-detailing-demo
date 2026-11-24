@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 580" fill="none" role="img" aria-label="Dr Detailing">
+  <title>Dr Detailing</title>
+  <defs>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&amp;display=swap");
+      .serif {
+        font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+        font-weight: 600;
+      }
+    </style>
+    <path id="arc-top" d="M 118 164 A 152 152 0 0 1 382 164" fill="none" />
+    <path id="arc-bottom" d="M 348 356 A 152 152 0 0 1 152 356" fill="none" />
+  </defs>
+
+  <circle cx="250" cy="240" r="176" stroke="#1f7a52" stroke-width="8" />
+  <circle cx="250" cy="240" r="164" stroke="#1f7a52" stroke-width="1.35" />
+
+  <g fill="#1f7a52">
+    <circle cx="119" cy="205" r="3.1" />
+    <circle cx="114" cy="240" r="3.1" />
+    <circle cx="119" cy="275" r="3.1" />
+    <circle cx="132" cy="306" r="3.1" />
+    <circle cx="381" cy="205" r="3.1" />
+    <circle cx="386" cy="240" r="3.1" />
+    <circle cx="381" cy="275" r="3.1" />
+    <circle cx="368" cy="306" r="3.1" />
+  </g>
+
+  <text class="serif" fill="#1f7a52" font-size="23" letter-spacing="0.28em">
+    <textPath href="#arc-top" startOffset="50%" text-anchor="middle">DIAGNOSTIKA</textPath>
+  </text>
+  <text class="serif" fill="#1f7a52" font-size="21" letter-spacing="0.22em">
+    <textPath href="#arc-bottom" startOffset="50%" text-anchor="middle">L&#x00C9;&#x010C;BA &#x00B7; LESK</textPath>
+  </text>
+
+  <text
+    class="serif"
+    x="250"
+    y="268"
+    fill="#12161c"
+    font-size="86"
+    font-weight="700"
+    text-anchor="middle"
+    letter-spacing="0.04em"
+  >DR</text>
+
+  <path
+    fill="#1f7a52"
+    d="M250 58 C250 58 221 108 221 138 C221 157 234 172 250 172 C266 172 279 157 279 138 C279 108 250 58 250 58 Z"
+  />
+
+  <line x1="92" y1="452" x2="408" y2="452" stroke="#1f7a52" stroke-width="2.6" />
+
+  <text
+    class="serif"
+    x="250"
+    y="502"
+    text-anchor="middle"
+    font-size="42"
+    font-weight="700"
+    letter-spacing="0.18em"
+  >
+    <tspan fill="#12161c">DETAIL</tspan><tspan fill="#1f7a52">ING</tspan>
+  </text>
+</svg>
